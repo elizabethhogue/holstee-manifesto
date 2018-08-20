@@ -1,0 +1,206 @@
+.manifesto {
+	font-family: Roboto Slab;
+	background: url('bokah.jpg') no-repeat;
+	width: 658px;
+	height: 865px;
+	overflow: auto;
+	text-transform: uppercase;
+	padding: 15px;
+	text-align: justify;
+}
+
+.this {
+	font-size: 52px;
+	float: left;
+}
+
+.life {
+	font-size: 131px;
+	float: right;
+	margin-top: -25px;
+
+}
+
+.do {
+	font-size: 33px;
+	float: left;
+	line-height: 7px;
+	padding-left: 5px;
+}
+
+.and {
+	font-size: 37px;
+	line-height: 55px;
+}
+
+.change {
+	font-size: 30.5px;
+	float: left;
+	margin-top: -30px;
+}
+
+.quit {
+	font-size: 38px;
+	float: left;
+	margin-top: -14px;
+}
+
+.tv {
+	font-size: 24.1px;
+	float: left;
+	margin-top: -10px;
+}
+
+.love {
+	font-size: 23.5px;
+	float: left;
+	margin-top: -5px;
+}
+
+.wait {
+	font-size: 30px;
+	float: left;
+	margin-top: -5px;
+}
+
+.start {
+	font-size: 41px;
+	float: left;
+	margin-top: -10px;
+}
+
+.stop {
+	font-size: 30px;
+	float: left;
+	margin-top: -9px;
+	margin-right: 50px;
+}
+
+.simple {
+	font-size: 48px;
+	float: left;
+	margin-top: -10px;
+}
+
+.emotions {
+	font-size: 18.5px;
+	float: right;
+	margin-top: -34px;
+	margin-bottom: 25px;
+}
+
+.eat {
+	font-size: 20.5px;
+	float: right;
+	margin-top: -28px;
+	margin-right: 2px;
+}
+
+.bite {
+	font-size: 33px;
+	float: right;
+	margin-top: -10px;
+}
+
+.open {
+	font-size: 24.7px;
+	float: left;
+	margin-top: -10px;
+}
+
+.people {
+	font-size: 25.6px;
+	float: left;
+	margin-top: -6px;
+}
+
+.ask-the-next {
+	font-size: 23.2px;
+	float: left;
+	margin-top: -6px;
+}
+
+.inspire {
+	font-size: 26.8px;
+	float: left;
+	margin-top: -6px;
+}
+
+.travel {
+	font-size: 48px;
+	float: left;
+	margin-top: -10px;
+}
+
+.lost {
+	font-size: 29px;
+	float: right;
+	margin-top: -7px;
+}
+
+.find {
+	font-size: 21px;
+	float: right;
+	margin-top: -7px;
+}
+
+.some {
+	font-size: 24.5px;
+	float: left;
+	margin-top: -8px;
+}
+
+.meet {
+	font-size: 30.5px;
+	float: left;
+	margin-top: -8px;
+}
+
+.create {
+	font-size: 35px;
+	float: left;
+	margin-top: -10px;
+}
+
+.go-out {
+	font-size: 39.6px;
+	float: left;
+	margin-top: -10px;
+}
+
+.life-is {
+	font-size: 80px;
+	float: left;
+	margin-top: -25px;
+	margin-right: 200px;
+}
+
+.short {
+	font-size: 80px;
+	float: left;
+	margin-top: -30px;
+}
+
+.dream {
+	font-size: 41px;
+	float: right;
+	margin-top: -95px;
+}
+
+.share {
+	font-size: 64.5px;
+	float: right;
+	margin-top: -64px;
+}
+
+.passion {
+	font-size: 50px;
+	float: right;
+	margin-top: -22px;
+	margin-left: 1px;
+}
+
+
+
+
+
